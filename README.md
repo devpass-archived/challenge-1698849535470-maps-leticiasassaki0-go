@@ -1,0 +1,2 @@
+## Maps in Go Challenge
+In this challenge, we're exploring the usage of maps in Go. Your task is to create a map called `studentGrades` that maps student names (strings) to their respective grades (float64). Then, add a few entries to the map and print out the grades for each student.
